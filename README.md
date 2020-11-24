@@ -1,6 +1,6 @@
 # AlterImage
  Image convertation from format to format
-##Задачи
+### Задачи
 * Изучить формат Png и Tiff
 * мультипоток
 * не умереть
